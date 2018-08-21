@@ -7,7 +7,7 @@ platform：windows
 直接下载使用dist/Command2Unity.exe即可    
 
 
-初始设置界面
+初始设置界面  
 ![avatar](screenshoot/ui.png)  
 
 
