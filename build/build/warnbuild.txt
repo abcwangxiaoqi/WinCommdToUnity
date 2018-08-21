@@ -1,0 +1,44 @@
+missing module named 'multiprocessing.forking' - imported by F:\Project\MQPythonPackage\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named posix - imported by os, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named 'org.python' - imported by pickle, F:\PyProject\WinCommdToUnity\gooeyMain.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, F:\PyProject\WinCommdToUnity\gooeyMain.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named _winreg - imported by platform, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named 'java.lang' - imported by platform, F:\PyProject\WinCommdToUnity\gooeyMain.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named termios - imported by tty, F:\PyProject\WinCommdToUnity\gooeyMain.py, getpass
+missing module named grp - imported by shutil, tarfile, pathlib, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, pathlib, psutil, F:\PyProject\WinCommdToUnity\gooeyMain.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named org - imported by copy, F:\PyProject\WinCommdToUnity\gooeyMain.py
+missing module named Carbon - imported by wx.lib.colourutils
+missing module named StringIO - imported by six
+missing module named psutil._psutil_aix - imported by psutil, psutil._psaix
+missing module named psutil._psutil_sunos - imported by psutil, psutil._pssunos
+missing module named psutil._psutil_bsd - imported by psutil, psutil._psbsd
+missing module named psutil._psutil_osx - imported by psutil, psutil._psosx
+missing module named _psutil_linux - imported by psutil
+missing module named psutil._psutil_posix - imported by psutil, psutil._pslinux, psutil._psosx, psutil._psbsd, psutil._pssunos, psutil._psaix
+missing module named 'Carbon.Appearance' - imported by wx.lib.agw.aui.aui_utilities, wx.lib.agw.aui.tabart
+missing module named __builtin__ - imported by wx.py.sliceshell, PIL.Image
+runtime module named six.moves - imported by wx.py.interpreter, wx.py.shell
+missing module named olefile - imported by PIL.MicImagePlugin, PIL.FpxImagePlugin
+missing module named UserDict - imported by PIL.PdfParser
+missing module named Tkinter - imported by PIL.ImageTk
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt
+missing module named numpy - imported by PIL.ImageFilter
+missing module named pathlib2 - imported by PIL.Image
+missing module named cffi - imported by PIL.Image, PIL.PyAccess, PIL.ImageTk
